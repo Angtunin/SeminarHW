@@ -14,5 +14,5 @@ if (result == 0)
 }
 else
 {
-    Console.Write("Число чётное");    
+    Console.Write("Число нечётное");    
 }
